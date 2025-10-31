@@ -4,7 +4,7 @@ Süleyman Demirel Üniversitesi Film Kulübü için geliştirilen, TVMaze API ta
 
 Bu proje, React kullanarak modern bir web uygulaması geliştirmek için gereken temel kavramları içermektedir.
 
-**🔗 Vercel Demo:** <a href="https://movie-club-orcin.vercel.app/" target="_blank">Canlı siteye gitmek için buraya tıkla</a> 🚀
+**Vercel Demo:** <a href="https://movie-club-orcin.vercel.app/" target="_blank">Buradan tıklayarak canlı demoya ulaşabilirsiniz.</a> 🚀
 
 ## 🚀 Proje Özellikleri ve Kullanılan Teknolojiler
 
