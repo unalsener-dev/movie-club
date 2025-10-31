@@ -1,8 +1,6 @@
 # 🎬 Kampüs Film Kulübü - React Projesi
 
-Süleyman Demirel Üniversitesi Film Kulübü için geliştirilen, TVMaze API tabanlı dizi arama ve gösterim listesi oluşturma uygulaması.
-
-Bu proje, React kullanarak modern bir web uygulaması geliştirmek için gereken temel kavramları içermektedir.
+Bu proje, React kullanılarak geliştirilen, TVMaze API tabanlı dizi arama ve gösterim listesi oluşturma uygulamasıdır. Modern bir web uygulaması geliştirmek için gereken temel kavramları içermektedir.
 
 **Vercel Demo:** <a href="https://movie-club-orcin.vercel.app/" target="_blank">Buradan tıklayarak canlı demoya ulaşabilirsiniz.</a> 🚀
 
