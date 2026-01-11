@@ -34,3 +34,10 @@ Bu proje, aşağıdaki teknolojiler ve özellikler kullanılarak geliştirilmiş
     * Veri yüklenirken **Spinner** .
     * API hatası durumunda **Hata Mesajı** ve "Tekrar Dene" butonu.
     * Arama sonucu boşsa **Boş Durum** bileşeni gösterilir.
+---
+
+## 📬 İletişim
+- 📧 E-posta: unalsener0488@gmail.com  
+- 💻 [GitHub](https://github.com/unalsener-dev)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/%C3%BCnal-%C5%9Fener-7b12712ab/)
+
